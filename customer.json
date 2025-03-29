@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c-4806",
+    "name": "Panda",
+    "email": "panda@gmail.com",
+    "password": "123456",
+    "balance": 80000
+  },
+  {
+    "id": "c-1336",
+    "name": "pindi",
+    "email": "pindi@gmail.com",
+    "password": "654321",
+    "balance": 0
+  }
+]

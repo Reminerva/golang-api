@@ -1,0 +1,14 @@
+[
+  {
+    "id": "m-7486",
+    "name": "Merchant A",
+    "balance": 11000,
+    "address": "Jl. mana"
+  },
+  {
+    "id": "m-3469",
+    "name": "Merchant B",
+    "balance": 0,
+    "address": "Jl. jl"
+  }
+]
